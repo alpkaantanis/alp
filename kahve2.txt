@@ -1,0 +1,22 @@
+turk
+50.0
+cappucino
+1000.0
+1 pum nane
+40.0
+espresso
+50.0
+makiota
+50
+amerikano
+80
+turk kahvesi
+50
+turk kahvesi
+60
+turk kahvesi
+50
+espresso
+100
+turk kahvesi
+110
